@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=RC_Car.SchDoc
+Record=SheetSymbol|SourceDocument=RC_Car.SchDoc|Designator=U_Bridge|SchDesignator=U_Bridge|FileName=Bridge.SchDoc|SymbolType=Normal|RawFileName=Bridge.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=RC_Car.SchDoc|Designator=U_MCU|SchDesignator=U_MCU|FileName=MCU.SchDoc|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=RC_Car.SchDoc|Designator=U_Power|SchDesignator=U_Power|FileName=Power.SchDoc|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=RC_Car.SchDoc|Designator=U_RF|SchDesignator=U_RF|FileName=RF.SchDoc|SymbolType=Normal|RawFileName=RF.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
